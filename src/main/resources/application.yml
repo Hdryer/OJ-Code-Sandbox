@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: oj-code-sandbox
+
+server:
+  port: 9090
